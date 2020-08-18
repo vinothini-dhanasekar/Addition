@@ -10,7 +10,9 @@ public class Addition {
 
 
 		      System.out.println("Sum of these numbers: "+sum);
+		      ****************************************************************
 		      System.out.println("Sum of these numbers: "+sum);
+		      ******************************************************************
 		      System.out.println("Sum of these numbers: "+sum);
 
 		      System.out.print(sum);
